@@ -69,3 +69,7 @@ npm start
 ## License
 
 MIT
+
+## Credits
+- Forked from [vuejs hackernews-2.0 repo](https://github.com/vuejs/vue-hackernews-2.0)
+- Updated based on [this vue js test tutorial](https://itnext.io/testing-real-world-vuejs-apps-d3e44118f8ce) by Alberto Gualis.
