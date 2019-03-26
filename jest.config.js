@@ -20,6 +20,7 @@ module.exports = {
     "snapshotSerializers": [
       "<rootDir>/node_modules/jest-serializer-vue"
     ],
-    "setupTestFrameworkScriptFile": "<rootDir>/src/jest-setup.js"
-  
+    // "setupTestFrameworkScriptFile": "<rootDir>/src/jest-setup.js"
+    "setupFilesAfterEnv": ["<rootDir>jest.config.js"]
+    
   }
